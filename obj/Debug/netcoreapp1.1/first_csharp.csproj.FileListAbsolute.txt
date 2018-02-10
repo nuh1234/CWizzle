@@ -1,0 +1,10 @@
+/Users/nuhmohamud/Documents/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.deps.json
+/Users/nuhmohamud/Documents/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.json
+/Users/nuhmohamud/Documents/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.runtimeconfig.dev.json
+/Users/nuhmohamud/Documents/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.dll
+/Users/nuhmohamud/Documents/first_csharp/bin/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/nuhmohamud/Documents/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfo.cs
+/Users/nuhmohamud/Documents/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.dll
+/Users/nuhmohamud/Documents/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.pdb
+/Users/nuhmohamud/Documents/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.csproj.CoreCompileInputs.cache
+/Users/nuhmohamud/Documents/first_csharp/obj/Debug/netcoreapp1.1/first_csharp.AssemblyInfoInputs.cache
