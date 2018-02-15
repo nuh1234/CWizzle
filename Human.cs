@@ -1,3 +1,4 @@
+using System;
 namespace first_csharp {
     public class Human {
         public string name {get; set;}
@@ -25,6 +26,8 @@ namespace first_csharp {
             Human h = o as Human;
             if(h != null) {
                 h.health -= (this.strength * 5);
+            }else {
+                Console.WriteLine("Failed Attack");
             }
         }
     }
